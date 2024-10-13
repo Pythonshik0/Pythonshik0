@@ -36,7 +36,7 @@ I take pride in delivering quality code and finding efficient solutions to compl
 
 ### Contact Me
 
-- 📫 You can reach me via [Telegram](https://t.me/IskanderMinsafin) or [Email](defsoyt_wott@mail.ru).
+- 📫 You can reach me via [Telegram](https://t.me/IskanderMinsafin) or Email - defsoyt_wott@mail.ru.
 
 ---
 
