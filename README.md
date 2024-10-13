@@ -40,7 +40,7 @@ I take pride in delivering quality code and finding efficient solutions to compl
 ### Contact Me
 
 - 📫 You can reach me via [Telegram](https://t.me/IskanderMinsafin) or [Email](defsoyt_wott@mail.ru).
-- 🌐 My CodeWars account [CodeWars](https://www.codewars.com/users/SeniorIskander).
+- 🌐 My [CodeWars](https://www.codewars.com/users/SeniorIskander) account.
 
 ---
 
