@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/iskander-minsafin" target="_blank">Iskander Minsafin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Iskander Minsafin width="30px"></h1>
 <h3 align="center">A Python Developer | Automation Enthusiast | Machine Learning Learner</h3>
 
 <p align="center">
@@ -39,8 +39,8 @@ I take pride in delivering quality code and finding efficient solutions to compl
 
 ### Contact Me
 
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/iskander-minsafin) or [Email](mailto:youremail@example.com).
-- 🌐 Check out my portfolio at [Portfolio Link](https://your-portfolio-url.com).
+- 📫 You can reach me via [Telegram]([https://www.linkedin.com/in/iskander-minsafin](https://t.me/IskanderMinsafin)) or [Email](defsoyt_wott@mail.ru).
+- 🌐 My CodeWars account [CodeWars]([https://your-portfolio-url.com](https://www.codewars.com/users/SeniorIskander)).
 
 ---
 
