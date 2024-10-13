@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Iskander Minsafin</h2>
 <h3 align="center">A Python Developer | Automation Enthusiast | Machine Learning Learner</h3>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/SeniorIskander)   
+[![codewars](https://www.codewars.com/users/SeniorIskander/badges/large)](https://www.codewars.com/users/SeniorIskander)   
 ---
 
 ### About Me
