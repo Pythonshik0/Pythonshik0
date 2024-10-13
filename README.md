@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Iskander Minsafin</h2>
 <h3 align="center">A Python Developer | Automation Enthusiast | Machine Learning Learner</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
 
 ---
 
