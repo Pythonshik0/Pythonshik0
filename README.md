@@ -1,9 +1,7 @@
-<h1 align="center">Hi there, I'm Iskander Minsafin width="30px"></h1>
+<h2 align="center">Hi there, I'm Iskander Minsafin</h2>
 <h3 align="center">A Python Developer | Automation Enthusiast | Machine Learning Learner</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
