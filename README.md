@@ -1,4 +1,4 @@
-<h1 align="center">My name is Iskander and I am a Python developer with over 3 years of software development experience.
+<h4 align="left">My name is Iskander and I am a Python developer with over 3 years of software development experience.
 
 My experience includes:
 Proficiency in Python, as well as key libraries and frameworks such as Django, Flask, FastApi, Celery, Pygame, PyQt5/PyQt6, Playwright, Puppeteer, TensorFlow, Redis and others.
