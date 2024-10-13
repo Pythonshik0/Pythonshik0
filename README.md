@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Iskander Minsafin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">My name is Iskander, and I am a Python developer with over 3 years of experience in software development. Over the years, I have worked on projects involving web development, process automation, data processing, and machine learning. I believe my skills and experience can contribute to your team.
+<h4 align="left">My name is Iskander, and I am a Python developer with over 3 years of experience in software development. Over the years, I have worked on projects involving web development, process automation, data processing, and machine learning. I believe my skills and experience can contribute to your team.
 
 My expertise includes:
 Proficiency in Python, along with key libraries and frameworks such as Django, Flask, FastAPI, Celery, Pygame, PyQt5/PyQt6, Playwright, Puppeteer, TensorFlow, Redis, and more.
